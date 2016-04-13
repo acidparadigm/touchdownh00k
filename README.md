@@ -1,9 +1,9 @@
-csgo-external
+touchdownh00k
 ===================
 
-Linux x86 CS-GO cheat for x86 and x64 Linux systems.
+Linux x86 CS-GO h00k for x86 and x64 Linux systems.
 
 ![hackin](http://i.imgur.com/fiKLjnQ.jpg)
 
-Have a look on the [Wiki](https://github.com/olaulau/csgo-external/wiki) for more informations.
+original base by s0beit.
 
